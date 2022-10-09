@@ -1,2 +1,5 @@
-# django-react
-# pytesseract_test
+### To build this app, follow the following steps:
+
+
+## Django Server
+    - 
